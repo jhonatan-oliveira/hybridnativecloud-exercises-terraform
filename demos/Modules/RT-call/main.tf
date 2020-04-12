@@ -1,4 +1,4 @@
 module "routetable" {
-  source = "../Count"
+  source = "../../Count"
   qtd_elb = 4  
 }
